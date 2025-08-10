@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+firebase-admin
+pytesseract
+Pillow
+pdf2image
+dateparser
+nltk
+spacy
+pandas
+numpy
+openpyxl
+python-docx
+reportlab
